@@ -1,0 +1,29 @@
+{
+  "name": "processingjs",
+  "version": "1.4.1",
+  "description": "a port of the Processing visualization language for Javascript and Node.js",
+  "homepage": "http://processingjs.org",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/processing-js/processing-js.git"
+  },
+  "dependencies": {
+    "jsdom": "*",
+    "xmlhttprequest": "*",
+    "canvas": "*"
+  },
+  "keywords": [
+    "processing",
+    "processing.js",
+    "canvas",
+    "graphics"
+  ],
+  "author": "John Resig (http://ejohn.org)",
+  "contributors": [ "https://github.com/processing-js/processing-js/blob/master/AUTHORS" ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/processing-js/processing-js/blob/master/LICENSE"
+  },
+  "directories": {}
+}

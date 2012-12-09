@@ -1,6 +1,7 @@
 release/
 dist/
 logs/
+node_modules
 
 Unsaved\ Document*
 .DS_Store
